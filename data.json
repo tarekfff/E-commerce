@@ -1,0 +1,50 @@
+[
+    {
+        "name": " Lexicon Luxe T-shirt",
+        "url": "https://readymadeui.com/images/product2.webp",
+        "category": "t-shirt",
+        "oldprice": "2500",
+        "id": 1,
+        "price": "2000"
+    },
+    {
+        "name": "Verbal Vogue T-shirt",
+        "url": "https://readymadeui.com/images/product7.webp",
+        "category": "t-shirt",
+        "oldprice": "2500",
+        "id": 2,
+        "price": "1900"
+    },
+    {
+        "name": "Sole Elegance",
+        "url": "https://readymadeui.com/images/product9.webp",
+        "category": "shoes",
+        "oldprice": "4500",
+        "id": 3,
+        "price": "4000"
+    },
+    {
+        "name": "Echo Elegance",
+        "url": "https://readymadeui.com/images/product14.webp",
+        "category": "shoes",
+        "oldprice": "3000",
+        "id": 4,
+        "price": "2500"
+    },
+    {
+        "name": "inderwear black",
+        "url": "https://i.pinimg.com/736x/03/a1/b6/03a1b64eb1639ea48e1aa641c5b76da5.jpg",
+        "category": "inderwear",
+        "oldprice": "3500",
+        "id": 5,
+        "price": "2400"
+    },
+    {
+        "name": "inderwear white",
+        "url": "https://i.pinimg.com/564x/32/b7/22/32b72229048a3dd1cb6e93514a254751.jpg",
+        "category": "inderwear",
+        "oldprice": "3000",
+        "id": 6,
+        "price": "2000"
+    }
+]
